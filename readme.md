@@ -7,7 +7,7 @@ Reason in 3D</h1>
 <a href="https://arxiv.org/abs/2503.22976" target="_blank">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-SPAR-red?logo=arxiv" height="20" />
 </a>
-<a href="https://fudan-zvg.github.io/spar/" target="_blank">
+<a href="https://logosintelligencelab.github.io/SPAR/" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/🌎_Website-SPAR-blue.svg" height="20" />
 </a></br>
 <a href="https://huggingface.co/datasets/jasonzhango/SPAR-7M" target="_blank">
@@ -401,7 +401,7 @@ pip install torch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2 --index-url https
 pip install setuptools==57.5.0 
 pip install flash-attn --no-build-isolation
 
-git clone https://github.com/xx/spar.git
+git clone https://github.com/LogosIntelligenceLab/SPAR.git
 cd lmms-eval
 pip install -e .
 ```
