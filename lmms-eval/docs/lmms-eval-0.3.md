@@ -242,11 +242,11 @@ As shown in the above results, the batch inference (BS=4) can significantly save
 6. **LMMs-Eval Analysis Tool**
     1. Lite/Core-set Selection by Kaichen Zhang
         
-        https://github.com/EvolvingLMMs-Lab/lmms-eval/tree/main/tools/lite
+        https://github.com/LogosIntelligenceLab/SPAR/tree/main/lmms-eval/tools/lite
         
     2. LiveBench by Fanyi Pu
         
-        https://github.com/EvolvingLMMs-Lab/lmms-eval/tree/main/tools/live_bench
+        https://github.com/LogosIntelligenceLab/SPAR/tree/main/lmms-eval/tools/live_bench
         
 7. **SGLang Evaluation**
     1. [Feat] SGLang SRT commands in one go, async input for openai server by [@kcz358](https://github.com/kcz358) in [#212](https://github.com/EvolvingLMMs-Lab/lmms-eval/pull/212)
