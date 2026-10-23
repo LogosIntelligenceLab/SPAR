@@ -84,7 +84,7 @@ pip install -e .
 <details>
 <summary>Reproduction of LLaVA-1.5's paper results</summary>
 
-You can check the [environment install script](miscs/repr_scripts.sh) and [torch environment info](miscs/repr_torch_envs.txt) to **reproduce LLaVA-1.5's paper results**. We found torch/cuda versions difference would cause small variations in the results, we provide the [results check](miscs/llava_result_check.md) with different environments.
+You can check the [environment requirements](miscs/llava_repr_requirements.txt) and [torch environment info](miscs/repr_torch_envs.txt) to **reproduce LLaVA-1.5's paper results**. We found torch/cuda versions difference would cause small variations in the results, we provide the [results check](miscs/llava_result_check.md) with different environments.
 
 </details>
 
