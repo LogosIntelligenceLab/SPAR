@@ -466,10 +466,11 @@ Their work laid important groundwork for evaluating spatial reasoning in vision-
 If you find this project or dataset helpful, please consider citing our paper:
 
 ```bibtex
-@article{zhang2025from,
-    title={From Flatland to Space: Teaching Vision-Language Models to Perceive and Reason in 3D},
-    author={Zhang, Jiahui and Chen, Yurui and Zhou, Yanpeng and Xu, Yueming and Huang, Ze and Mei, Jilin and Chen, Junhui and Yuan, Yujie and Cai, Xinyue and Huang, Guowei and Quan, Xingyue and Xu, Hang and Zhang, Li},
-    year={2025},
-    journal={arXiv preprint arXiv:2503.22976},
+@article{zhang2026flatland,
+  title={From flatland to space: Teaching vision-language models to perceive and reason in 3d},
+  author={Zhang, Jiahui and Chen, Yurui and Xu, Yueming and Huang, Ze and Mei, Jilin and Chen, Chunhui and Zhou, Yanpeng and Yuan, Yu-Jie and Cai, Xinyue and Huang, Guowei and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={38},
+  year={2026}
 }
 ```
