@@ -10,7 +10,7 @@ import random
 import argparse
 try:
     import orjson as json
-except:
+except ImportError:
     import json
 
 from tqdm import tqdm
